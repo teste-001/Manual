@@ -1,0 +1,109 @@
+conceitos básicos:
+	O que é controle de versão:
+	Por que fazer controle de versão:
+	O que é um repositório no Git:
+	Diferença entre repositórios do Git e GitHub:
+
+comandos simples:
+
+	Como criar um repositório usando comandos do Git:
+	Comandos básicos:
+		Caso de case sensitive:
+		Control + L:
+		Control + L:
+		cd ..:	
+		Mkdir
+		Pwd
+
+	CLI (Command Line Interface):
+	GUI (Graphical User Interface):
+	Diferença entre git init e git branch:
+	Por que usar branches?:
+
+
+configurações iniciais:
+	configuração email e usuario.
+	hierarquia de usuarios - local , global, system.
+	git init.defaultBranch 
+
+
+comandos funcionais:
+Git status
+Git add
+Git commit -m
+git reset --mixed, hard, soft
+git commit --amend -m "test"
+Git remote rm origin.
+Git commit -a -m "mensagem"
+
+Funcionalidades dentro do github - New repository (github.com)
+	O que é README FILE?
+	PUBLIC VS PRIVATE
+	Add .gitignore 
+	choose a license.
+	Git fork ou apenas fork
+
+processo de conexão com o servidor.
+
+git remote add origin master url.
+git remote --v
+fech and push
+
+comandos de apoio:
+
+Git help -h
+Git help log
+--log-size
+git log --author "inicial"
+git log --grep "inicial"
+Git remote rename "Nome do repositorio" e "o novo nome"	
+
+sessão erros:
+O que significa esse erro?
+	erro de marge
+e esse?
+	fatal: this operation must be run in a work tree
+
+teoria da computação:
+
+	Caminho absoluto e relativo.
+
+empreedorismo aplicado no conteudo aprendido.
+
+	necessidade
+	oportunidade
+	oportunidade
+	Sistemas capitalistas no meio tecnológico com a criação de aplicação ou aplicativos.
+	Relação interseccional de caracteristicas para aplicação em projetos:
+	Como funciona o processo de contrução de ideias baseado em alguns criterios:
+
+
+parte da programação:
+
+	-Semântica e sintaxe.
+	Backend e frontend
+	O que é um extensão
+	Regras de escrita de nomes no html.
+	O que são plug-ins dentro do vs code.
+	Estrutura básica de um código html.
+
+Comandos específicos da sessão programção:
+
+	ul e ol
+	Atalhos - ! (crição de estrutura sozinho)
+	Shift+alt+f
+	Tabelas
+	Nomeação de paginas
+	importação de img.
+	Como posso importar arquivos css em um arquivo html usando o comando LINK/REL/HREF:
+
+outras perguntas sobre programação:
+
+	O que são formularios?
+	Como podemos criar um formulário?
+
+	
+
+		
+
+	
